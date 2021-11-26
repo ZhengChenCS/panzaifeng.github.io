@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Zaifeng Pan 潘再峰
 
-You can use the [editor on GitHub](https://github.com/PanZaifeng/panzaifeng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Zaifeng Pan is a master student in [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](http://www.ruc.edu.cn/). His current research interests include High Performance Computing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Address
 
-### Markdown
+500,Information Building, No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education Background
 
-```markdown
-Syntax highlighted code block
+1.Sep.2021 ~ Now: M.S. student in School of Information, Renmin University of China. Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io/).
 
-# Header 1
-## Header 2
-### Header 3
+2.Sep.2017 ~ Jul.2021: B.Eng. in School of Mechanical Engineering, Shanghai Jiao Tong University.
 
-- Bulleted
-- List
+### Publication
 
-1. Numbered
-2. List
+**\[TPDS’21\]** “Exploring Data Analytics without Decompression on Embedded GPU Systems”, Zaifeng Pan, Feng Zhang, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. TPDS, 2021.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PanZaifeng/panzaifeng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**\[ICDE’21\]** “G-TADOC: Enabling Efficient GPU-Based Text Analytics without Decompression”, Feng Zhang, Zaifeng Pan, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. 37th IEEE International Conference on Data Engineering.
