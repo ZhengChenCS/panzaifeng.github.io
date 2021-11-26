@@ -1,16 +1,20 @@
 ## Zaifeng Pan 潘再峰
 
-Zaifeng Pan is a master student in [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](http://www.ruc.edu.cn/). His current research interests include High Performance Computing.
+Zaifeng Pan is a master student at Renmin University of China. His current research interests include High Performance Computing.
 
-### Address
-
-500,Information Building, No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
+Email Address: panzaifeng@ruc.edu.cn
 
 ### Education Background
 
-1.Sep.2021 ~ Now: M.S. student in School of Information, Renmin University of China. Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io/).
+1. Sep.2021 ~ Now: M.S. of Computer Science, in School of Information, Renmin University of China. Advisor: Prof. [Feng Zhang](https://fengzhangcs.github.io/).
 
-2.Sep.2017 ~ Jul.2021: B.Eng. in School of Mechanical Engineering, Shanghai Jiao Tong University.
+2. Sep.2017 ~ Jul.2021: B.Eng. of Mechanical Engineering, in School of Mechanical Engineering, Shanghai Jiao Tong University.
+
+### Work Experience
+
+1. Research Intern @ PAI group, Alibaba
+
+2. HLS Software Developer Intern @ Vitis Library, Xilinx
 
 ### Publication
 
