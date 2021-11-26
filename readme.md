@@ -2,7 +2,7 @@
 
 Zaifeng Pan is a master student at Renmin University of China. His current research interests include High Performance Computing.
 
-Email Address: <panzaifeng@ruc.edu.cn>
+Email Address: [panzaifeng@ruc.edu.cn](panzaifeng@ruc.edu.cn)
 
 ### Education Background
 
