@@ -18,6 +18,6 @@ Email Address: [panzaifeng@ruc.edu.cn](panzaifeng@ruc.edu.cn)
 
 ### Publication
 
-**\[TPDS’21\]** “Exploring Data Analytics without Decompression on Embedded GPU Systems”, Zaifeng Pan, Feng Zhang, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. TPDS, 2021.
+**\[TPDS’22\]** “Exploring Data Analytics without Decompression on Embedded GPU Systems”, Zaifeng Pan, Feng Zhang, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. TPDS, 2021.
 
 **\[ICDE’21\]** “G-TADOC: Enabling Efficient GPU-Based Text Analytics without Decompression”, Feng Zhang, Zaifeng Pan, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. 37th IEEE International Conference on Data Engineering.
