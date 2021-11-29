@@ -18,6 +18,8 @@ Email Address: [panzaifeng@ruc.edu.cn](panzaifeng@ruc.edu.cn)
 
 ### Publication
 
-**\[TPDS’22\]** “Exploring Data Analytics without Decompression on Embedded GPU Systems”, <u>Zaifeng Pan</u>, Feng Zhang, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du.
+**\[TPDS’21, accepted\]** “G-SLIDE: A GPU-Based Sub-Linear Deep Learning Engine via LSH Sparsification”, <u>Zaifeng Pan</u>, Feng Zhang, Hourun Li, Chenyang Zhang, Xiaoyong Du, Dong Deng. [[PAPER]()] [[CODE](https://github.com/PanZaifeng/G-SLIDE)]
 
-**\[ICDE’21\]** “G-TADOC: Enabling Efficient GPU-Based Text Analytics without Decompression”, Feng Zhang, <u>Zaifeng Pan</u>, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du.
+**\[TPDS’21\]** “Exploring Data Analytics without Decompression on Embedded GPU Systems”, <u>Zaifeng Pan</u>, Feng Zhang, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. [[PAPER](https://ieeexplore.ieee.org/document/9568774)]
+
+**\[ICDE’21\]** “G-TADOC: Enabling Efficient GPU-Based Text Analytics without Decompression”, Feng Zhang, <u>Zaifeng Pan</u>, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. [[PAPER](https://ieeexplore.ieee.org/document/9458752)]
